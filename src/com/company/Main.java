@@ -9,6 +9,9 @@ public class Main {
     public static void main(String[] args) {
         double start = System.currentTimeMillis();
 
+//        https://code-exercises.com/programming/hard/17/package-rice-bags-part-2
+
+
 //        ===================================
 //        int A[] = {1,2,4,6,7};
 //        int A[] = {1,2,4,6,1000};

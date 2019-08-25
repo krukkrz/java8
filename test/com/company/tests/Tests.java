@@ -1,6 +1,6 @@
 package com.company.tests;
 
-import com.company.Person;
+import com.company.solutions.Person;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

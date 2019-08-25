@@ -1,8 +1,8 @@
 package com.company;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import com.company.solutions.Tomtom;
+import com.company.tomtom.Tomtom1;
+import com.company.tomtom.Tomtom2;
 
 public class Main {
 
@@ -72,9 +72,58 @@ public class Main {
 
 //        ===================================
 //        ===================================
+//
+//        Solution11 sol11 = new Solution11();
+//        System.out.println(sol11.solution("hello"));
 
-        Solution11 sol11 = new Solution11();
-        System.out.println(sol11.solution("hello"));
+//        ===================================
+//        ===================================
+
+//        int A[] = {1,2,3,4,6};
+//        int A[] = {1,2,3};
+//
+//        Solution12 sol12 = new Solution12();
+//        System.out.println(sol12.solution(A));
+
+//        ===================================
+//        ===================================
+
+//        Solution13 sol13 = new Solution13();
+//        System.out.println(sol13.solution("ahab"));
+
+//        ===================================
+//        ===================================
+//
+//        String s1 = "akakasiamm";
+//        String s2 = "ththkasialll";
+//        String s1 = "kakasiammkrzychu";
+//        String s2 = "ththkasialllkrzychu";
+//        String s1 = "aaaaaaaaaakakasiammkrzychu";
+//        String s2 = "aaaaaaaaaaththkasialllkrzychu";
+//
+//
+//        Solution14 sol14 = new Solution14();
+//        System.out.println(sol14.solution(s1, s2));
+
+//        ===================================
+//        ===================================
+//        int[] A = {1,2,3,4,5,6};
+//
+//        Tomtom tom = new Tomtom();
+//        System.out.println(tom.solution(A));
+
+//        ===================================
+//        ===================================
+
+        Tomtom1 tom1 = new Tomtom1();
+
+        System.out.println(tom1.solution("codility"));
+//        ===================================
+//        ===================================
+
+//        Tomtom2 tom2 = new Tomtom2();
+////        tom2.solution(3);
+//        System.out.println(tom2.solution(3));
 
 //        ===================================
 

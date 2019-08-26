@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="410e749e-124a-41f4-b96a-476f350b22bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/basics/Base1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basics/Base2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/solutions/Sol1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/basics/Base1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/com/company/basics/Base1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basics/Base1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basics/Base1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

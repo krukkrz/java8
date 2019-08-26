@@ -10,6 +10,8 @@ package com.company.basics;
 * W poniższym przykładzie czasy wykonania były:
 * 1. dla 'result += "a"': 84 ms
 * 2. dla StringBuilder przed forem: 3 ms
+*
+* WNIOSEK: jeśli musisz użyć budowania stringa wielokrotnie to zrób to na StringBuilderze, jeśli nie to sobie sklejaj
 * */
 
 public class Base1 {

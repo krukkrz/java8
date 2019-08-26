@@ -1,6 +1,8 @@
 package com.company;
 
 import com.company.basics.Base1;
+import com.company.basics.Base2;
+import com.company.solutions.Sol1;
 import com.company.solutions.Tomtom;
 import com.company.tomtom.Tomtom1;
 import com.company.tomtom.Tomtom2;
@@ -8,7 +10,8 @@ import com.company.tomtom.Tomtom2;
 public class Main {
 
     public static void main(String[] args) {
-        double start = System.currentTimeMillis();
+//        double start = System.currentTimeMillis();
+        double start = System.nanoTime();
 
 //        https://code-exercises.com/programming/hard/17/package-rice-bags-part-2
 
@@ -129,18 +132,29 @@ public class Main {
 //        ===================================
 //        ===================================
 
-        Base1 base1 = new Base1();
+//        Base1 base1 = new Base1();
+//        System.out.println(base1.sol());
 
-        System.out.println(base1.sol());
+//        ===================================
+//        ===================================
+//        Base2 base2 = new Base2();
+//        System.out.println(base2.sol());
+
+//        ===================================
+//        ===================================
+
+        Sol1 sol1 = new Sol1();
+        System.out.println(sol1.solution("abcba"));
 
 //        ===================================
 
 
 
 
-        double stop = System.currentTimeMillis();
+//        double stop = System.currentTimeMillis();
+        double stop = System.nanoTime();
         double time = stop - start;
         System.out.println("---------------------------");
-        System.out.println("elapsed time: "+time+" ms");
+        System.out.println("elapsed time: "+time/1000000+" ms");
     }
 }

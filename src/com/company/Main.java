@@ -1,5 +1,6 @@
 package com.company;
 
+import com.company.basics.Base1;
 import com.company.solutions.Tomtom;
 import com.company.tomtom.Tomtom1;
 import com.company.tomtom.Tomtom2;
@@ -115,15 +116,22 @@ public class Main {
 //        ===================================
 //        ===================================
 
-        Tomtom1 tom1 = new Tomtom1();
-
-        System.out.println(tom1.solution("codility"));
+//        Tomtom1 tom1 = new Tomtom1();
+//
+//        System.out.println(tom1.solution("codility"));
 //        ===================================
 //        ===================================
 
 //        Tomtom2 tom2 = new Tomtom2();
 ////        tom2.solution(3);
 //        System.out.println(tom2.solution(3));
+
+//        ===================================
+//        ===================================
+
+        Base1 base1 = new Base1();
+
+        System.out.println(base1.sol());
 
 //        ===================================
 
@@ -133,6 +141,6 @@ public class Main {
         double stop = System.currentTimeMillis();
         double time = stop - start;
         System.out.println("---------------------------");
-        System.out.println("elapsed time: "+time);
+        System.out.println("elapsed time: "+time+" ms");
     }
 }

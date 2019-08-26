@@ -2,43 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="410e749e-124a-41f4-b96a-476f350b22bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/solutions/Tomtom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/tomtom/Tomtom1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/tomtom/Tomtom2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basics/Base1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java8/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8/com/company/Solution9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java8/com/company/tests/SolutionTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java8/com/company/tests/SolutionTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java8/com/company/tests/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java8/com/company/tests/Tests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/solutions/Solution9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/tests/SolutionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/tests/SolutionTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/tests/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/tests/Tests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
